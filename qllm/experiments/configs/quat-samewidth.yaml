@@ -1,0 +1,4 @@
+name: quat-samewidth
+layer_kind: quaternion
+width: 384
+match: same_width

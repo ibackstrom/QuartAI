@@ -1,0 +1,4 @@
+name: cplx-samewidth
+layer_kind: complex
+width: 384
+match: same_width

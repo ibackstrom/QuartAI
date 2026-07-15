@@ -1,0 +1,4 @@
+implementation,batch,seq,width,warmups,iterations,tokens_per_sec,peak_mem_mb,device
+real,64,256,100,50,200,62112955.047340825,6.298095703125,mps
+quaternion_fused,64,256,100,50,200,53788832.11671265,6.298095703125,mps
+quaternion_naive,64,256,100,50,200,16981768.878115196,6.298095703125,mps

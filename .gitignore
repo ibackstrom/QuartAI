@@ -1,0 +1,13 @@
+.venv/
+.DS_Store
+github.md
+quart_research2.md
+qllm/data/cache/
+qllm/runs/
+qllm/report/*.png
+qbench/data/
+qbench/results/
+qbench/analysis/plots/
+qbench/*.log
+__pycache__/
+*.pyc
