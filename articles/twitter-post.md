@@ -1,1 +1,0 @@
-I tested my claim that quaternion projections beat real matrices when data is scarce: 86 runs, 1.247B tokens. Quaternion won through 2M tokens, 5M was inconclusive, real won from 10M to 50M. Crossover: 5M to 10M. Code + results: https://github.com/ibackstrom/QuartAI
