@@ -13,6 +13,7 @@ training tokens, 5M was inconclusive, and real projections won from 10M through 
 - [Why I ran this test](articles/quaternion-transformers-preface.md)
 - [Quaternion Transformers win early, then lose](articles/quaternion-transformers-crossover.md)
 - [Short LinkedIn post](articles/linkedin-post.md)
+- [Short Twitter/X post](articles/twitter-post.md)
 
 ```bash
 source .venv/bin/activate
